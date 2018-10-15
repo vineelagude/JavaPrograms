@@ -1,0 +1,9 @@
+git init
+
+git status : 
+	Working  -> Changes
+	        git add fileName
+	Staged    
+	        git commit -m "Messages"
+	Commit   
+		
